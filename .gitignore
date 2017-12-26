@@ -1,4 +1,5 @@
 __*
+*.zip
 .DS_Store
 dogImages/
 lfw/
